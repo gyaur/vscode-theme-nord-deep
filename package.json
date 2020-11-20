@@ -1,10 +1,10 @@
 {
-    "name": "nord-deep",
-    "displayName": "Nord Deep",
-    "description": "Another Nord-based vscode theme",
-    "repository": "https://github.com/marlosirapuan/vscode-theme-nord-deep",
-    "publisher": "marlosirapuan",
-    "version": "0.1.4",
+    "name": "nord-deep-visible-comments",
+    "displayName": "Nord Deep but you can actually see comments",
+    "description": "Nord Deep but you can actually see comments",
+    "repository": "https://github.com/gyaur/vscode-theme-nord-deep",
+    "publisher": "BalintGyarmathy",
+    "version": "0.1.0",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.39.0"
@@ -15,7 +15,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nord Deep",
+                "label": "Visible Comments Nord Deep",
                 "uiTheme": "vs-dark",
                 "path": "./themes/nord-deep-color-theme.json"
             }
